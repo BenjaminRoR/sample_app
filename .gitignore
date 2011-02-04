@@ -1,0 +1,15 @@
+.bundle
+db/*.sqlite3
+log/*.log
+log/*
+tmp/**/*
+tmp/*
+public/system/*
+.idea/workspace.xml
+.idea/tasks.xml
+*.log
+/tmp/
+doc/
+*.swp
+*~
+.DS_Store
