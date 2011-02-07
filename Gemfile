@@ -11,6 +11,7 @@ group :test do
   gem 'rspec'
   gem 'webrat'
   gem 'autotest'
+  gem 'spork'
   gem 'redgreen'
   gem 'test-unit'
 end
