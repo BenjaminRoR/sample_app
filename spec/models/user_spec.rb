@@ -1,5 +1,7 @@
 require 'spec_helper'
 
 describe User do
-  pending "add some examples to (or delete) #{__FILE__}"
+  it "should create a new instance given a valid attribute" do
+    User.create!(:name => "Example User", :email => "user#example.net")
+  end
 end
