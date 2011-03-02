@@ -1,0 +1,51 @@
+Um sich anzumelden kann
+eine Einzelperson ihre Email-Adresse, Vorname, Name und Schule, eingeben.Sie
+erhält dann ein Mail mit Link zur Anmeldebestätigung und den Bankdaten: IBAN,
+Referenznummer für die Begleichung der Rechnung.
+
+Um mit Rechnung einzuzahlen
+gibt die Einzelperson zusätzlich ihre Rechnungsadresse ein. Es geht dann ein
+Email an das Sekretariat mit der Rechnungsadresse und einem Link auf die
+Rechnungsdetails der Einzelperson.
+
+Um ausgehende schriftliche Rechnungen zu referenzieren
+gibt das Sekretariat die Referenznummer in den Rechnungsdetails der Einzelperson
+ein.
+
+Um eingehende Rechnungen zu erfassen
+sucht das Sekretariat anhand der Referenznummer die Einzelperson und vermerkt
+dort die Rechnung als bezahlt, worauf die Einzelperson eine Email mit der
+Zahlungsbestätigung erhält.
+
+Um mehrere Personen anmelden zu können
+erfasst eine Schule ihre Email, ihre Kontaktperson und deren Adresse und erhält
+eine Bestätigungsmail mit persönlichem Login.
+
+Um ihre Anmeldungen zu verwalten
+logt sich eine Schule mit dem persönlichen Login ein und erfasst Personen mit
+Name, Vorname, ev. Email. Sie kann diese Angaben ändern oder löschen.
+
+Um Missbrauch zu verhindern
+erhält eine Schule jeweils automatisch ein Mail mit dem Anmeldestand, wenn in
+den letzten 24 Stunden Personen für Sie an- oder abgemeldet worden sind.
+
+Um einer Schule Rechnung zu stellen
+Kann das Sekretariat die Anmeldungen einer Schule abrufen und erhält das
+Rechnungstotal.
+
+Um weitere Rechnungen oder Mahnungen an Schulen zu erstellen
+kann das Sekretariat den bereits bezahlten Betrag einer Schule eingeben und
+sieht danach den noch offenen Betrag der Schule. Sie kann ein Mail an diese
+Schule mit dem Zahlungsstand (Mahnbetrag) auslösen.
+
+Um einen Überblick über den Anmeldestand zu erhalten
+können die Organisatoren sämtliche angemeldeten Besucher sortiert nach Namen,
+Vornamen oder Schule, Name, Vorname abrufen. Sie sehen die Liste der
+Angemeldeten und das Total der Anmeldungen.
+
+Um am Tag des Bildungsforums Ausstände einzukassieren
+können die Organisatoren eine Liste der Ausstände sortiert nach Name,Vorname,
+Schule oder Schule, Name, Vorname, abrufen und ausdrucken.
+
+
+
