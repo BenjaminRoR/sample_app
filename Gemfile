@@ -15,4 +15,5 @@ group :test do
   gem 'spork'
   gem 'redgreen'
   gem 'test-unit'
+  gem 'factory_girl_rails'
 end

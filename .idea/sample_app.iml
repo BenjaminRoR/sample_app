@@ -24,6 +24,12 @@
     </requirement>
     <requirement>
       <requirement>
+        <dependency name="factory_girl_rails" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="rails" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
@@ -74,6 +80,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.bundle" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -127,6 +134,8 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.4.0, /Users/benjamin/.rvm/gems/ruby-1.9.2-p136@rails3tutorial/gems/rspec-mocks-2.4.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.4.0, /Users/benjamin/.rvm/gems/ruby-1.9.2-p136@rails3tutorial/gems/rspec-2.4.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.4.0, /Users/benjamin/.rvm/gems/ruby-1.9.2-p136@rails3tutorial/gems/rspec-expectations-2.4.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] factory_girl_rails (v1.0.1, /Users/benjamin/.rvm/gems/ruby-1.9.2-p136@rails3tutorial/gems/factory_girl_rails-1.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] factory_girl (v1.3.3, /Users/benjamin/.rvm/gems/ruby-1.9.2-p136@rails3tutorial/gems/factory_girl-1.3.3)" level="application" />
   </component>
 </module>
 
